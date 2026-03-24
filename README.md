@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @sneha369741
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi 👋, I'm Sneha
 
-<!---
-sneha369741/sneha369741 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 AI Engineer | GenAI Enthusiast  
+💻 Building AI apps with LLMs  
+📍 Bangalore, India  
+
+---
+
+## 🔥 About Me
+- 🎓 MSc Data Science (University of Leicester)
+- 🤖 Interested in AI, ML, GenAI
+- 🚀 Building RAG-based apps
+
+---
+
+## 🛠️ Tech Stack
+- Python 🐍  
+- Streamlit  
+- LangChain  
+- FAISS  
+- HuggingFace  
+
+---
+
+## 🚀 Projects
+- 📄 Chat with PDFs (RAG App)
+- 🤖 AI Assistant
+- 🧠 Multi-Agent System (learning)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [your-link]
+- GitHub: [your-link]
