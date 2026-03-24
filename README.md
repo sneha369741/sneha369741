@@ -30,5 +30,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [your-link]
-- GitHub: [your-link]
+- LinkedIn: https://www.linkedin.com/in/snehaa25/
+
